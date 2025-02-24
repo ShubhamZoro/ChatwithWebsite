@@ -1,7 +1,7 @@
 This app allow us to Perform QA on website.
 
 # 1. Link of the website
-https://xvbymxrabgaqw6cjyom3vy.streamlit.app/
+https://chatwithwebsite-acxjayqsbmswpnj53mhjyw.streamlit.app/
 
 # 2. Install the required dependencies
 ````
