@@ -7,5 +7,5 @@ https://xvbymxrabgaqw6cjyom3vy.streamlit.app/
 pip install -r requirements.txt
 
 # 3. Run the application
-  -git clone https://github.com/ShubhamZoro/ChatwithWebsite.git
-  -python -m streamlit run main.py
+"git clone https://github.com/ShubhamZoro/ChatwithWebsite.git"
+"python -m streamlit run main.py"
