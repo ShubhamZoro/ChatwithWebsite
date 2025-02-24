@@ -7,4 +7,5 @@ This app allow us to Perform QA on website.
 pip install -r requirements.txt
 
 # 3. Run the application
-streamlit run app.py
+git clone https://github.com/ShubhamZoro/ChatwithWebsite.git
+python -m streamlit run main.py
